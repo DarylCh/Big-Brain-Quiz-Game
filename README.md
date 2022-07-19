@@ -1,2 +1,2 @@
 # Big-Brain-Quiz-Game-Web-Project
-A web-based quiz application that works similarly to Kahoot.
+A web-based quiz application created using the React Framework that is based on Kahoot. People can register accounts and use their account to create and manage quiz game sessions. The creator decides how the questions (and answers) for each game and the points and time allocated for each question. When a game is created, a link will be provided that the creator can send to other users to play the game. The progress statistics of each player is recorded and reported back to the creator on the 'Game Results' page at the end of the game. 
